@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finger Speed Game</string>
+    <string name="a_starting_number">500</string>
+    <string name="timer_text">Timer</string>
+    <string name="btn_tap_tap">tap tap</string>
+    <string name="title_won">Congratulations, you won!!</string>
+    <string name="tile_lost">You lost! :(</string>
+    <string name="message">Would you like to play again?</string>
+</resources>
